@@ -1,0 +1,14 @@
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.exe
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.deps.json
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.runtimeconfig.json
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.dll
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\bin\Debug\net8.0\BubbleSortAlgorithm.pdb
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.AssemblyInfo.cs
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.dll
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\refint\BubbleSortAlgorithm.dll
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.pdb
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\BubbleSortAlgorithm.genruntimeconfig.cache
+C:\Users\Simch\source\repos\BubbleSortAlgorithm\BubbleSortAlgorithm\obj\Debug\net8.0\ref\BubbleSortAlgorithm.dll
